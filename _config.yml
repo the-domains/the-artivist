@@ -1,4 +1,3 @@
-layout_spectrum: 0.18666651262901723
 typography_spectrum: 0.6110985595732927
 color:
   brandStrength: 0.8955842352006584
@@ -11,8 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.18666651262901723
 name: THE ARTIVIST
 navigation:
   - name: THE ARTIVIST
     url: 'https://soundcloud.com/the_artivist'
     type: external
+title: Art&Activism
